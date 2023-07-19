@@ -1,6 +1,6 @@
 # Djikstra
 
-Projeto Final da disciplina de Estrutura de Dados, onde foi desenvolvido o Algoritmo de Djikstra para auxiliar na seguinte situação:
+## Projeto Final da disciplina de Estrutura de Dados, onde foi desenvolvido o Algoritmo de Djikstra para auxiliar na seguinte situação:
 
 Uma pequena empresa transportadora envia diariamente seu caminhão para diversas
 cidades para fazer entregas. A quantidade de cidades visitadas pelo caminhão varia de
